@@ -9,7 +9,7 @@ Matlab 自动控制 https://space.bilibili.com/481614254
 
 AI 优化问题
 
-深度强化学习 理论 https://www.bilibili.com/video/BV1rv41167yx from https://github.com/wangshusen/DRL
+深度强化学习 理论 https://www.bilibili.com/video/BV1rv41167yx
 - TRPO https://youtu.be/fcSYiyvPjm4 Sarsa和Q-Learning 原始 On-Policy Off-Policy eps-greedy https://zhuanlan.zhihu.com/p/543847410
 
 深度强化学习入门 知乎 https://zhuanlan.zhihu.com/p/25239682
@@ -27,22 +27,13 @@ AI 优化问题
 
 系统建模 不基于模型 深度学习 数据驱动 Matlab官方 推送 https://mp.weixin.qq.com/s/ITxBE6SkzgMsZ5J0mwezuw
 
+-----
+
 非线性控制笔记 知乎 https://www.zhihu.com/column/c_138293525
 
 wangshusen https://github.com/wangshusen
 
 机器学习 理论 shuhuai https://space.bilibili.com/97068901/video
-
------
-
-强化学习walking robot控制 Matlab官方 https://ww2.mathworks.cn/videos/deep-reinforcement-learning-for-walking-robots--1551449152203.html b站 https://www.bilibili.com/video/BV165411S7aT 代码 https://github.com/mathworks-robotics/msra-walking-robot/tree/master/ReinforcementLearning
-
-matlab/simulink强化学习 CSDN https://blog.csdn.net/weixin_43942325/article/details/107907923
-
-- b站 matlab强化学习 https://www.bilibili.com/video/BV15u41197PL
-
-强化学习四足机器人控制 Matlab官方 推送 https://mp.weixin.qq.com/s/ZT1n5-SFHfX943f4RB_y-Q
-- 强化学习四足机器人控制 Matlab官方 袁航 https://www.bilibili.com/video/BV1Zh411m7EF
 
 -----
 
@@ -59,20 +50,7 @@ matlab/simulink强化学习 CSDN https://blog.csdn.net/weixin_43942325/article/d
 
 -----
 
-key words 集群 多智能体 一致性 协同 图论
-
-多智能体分布式协同控制 华东理工和望利 2020 中国自动化协会 https://www.bilibili.com/video/BV1v5411s7LW
-
-多智能体系统协同控制 华东理工和望利 2021 https://www.bilibili.com/video/BV1tP4y1J7BE
-
-- 概念 无人系统 北航 https://www.bilibili.com/video/BV1mT4y1u7Ra
-- 智能协同控制技术 讲座 北航 https://www.bilibili.com/video/BV1Mv411M7mw
-
-多车协同驾驶 清华 中国自动化协会 https://www.bilibili.com/video/BV1LZ4y1p7zD
-
-网络群体智能分布式协同 东南 https://www.bilibili.com/video/BV1eY411W7mb
-
------
+CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
 
 博弈论入门 https://www.bilibili.com/video/BV15v411i7Mj
 
@@ -85,6 +63,32 @@ Vince9120 英语 交大校友 https://space.bilibili.com/396671281
 在bilibili学托福 https://www.bilibili.com/video/BV1xh411H7H1
 
 经济学原理 钱颖一 https://www.bilibili.com/video/BV1am4y1D73g
+
+-----
+
+强化学习walking robot控制 Matlab官方 https://ww2.mathworks.cn/videos/deep-reinforcement-learning-for-walking-robots--1551449152203.html b站 https://www.bilibili.com/video/BV165411S7aT 代码 https://github.com/mathworks-robotics/msra-walking-robot/tree/master/ReinforcementLearning
+
+matlab/simulink强化学习 CSDN https://blog.csdn.net/weixin_43942325/article/details/107907923
+
+- b站 matlab强化学习 https://www.bilibili.com/video/BV15u41197PL
+
+强化学习四足机器人控制 Matlab官方 推送 https://mp.weixin.qq.com/s/ZT1n5-SFHfX943f4RB_y-Q
+- 强化学习四足机器人控制 Matlab官方 袁航 https://www.bilibili.com/video/BV1Zh411m7EF
+
+-----
+
+key words 集群 多智能体 一致性 协同 图论
+
+多智能体分布式协同控制 华东理工和望利 2020 中国自动化协会 https://www.bilibili.com/video/BV1v5411s7LW
+
+多智能体系统协同控制 华东理工和望利 2021 https://www.bilibili.com/video/BV1tP4y1J7BE
+
+- 概念 无人系统 北航 https://www.bilibili.com/video/BV1mT4y1u7Ra
+- 智能协同控制技术 讲座 北航 https://www.bilibili.com/video/BV1Mv411M7mw
+
+多车协同驾驶 清华 中国自动化协会 https://www.bilibili.com/video/BV1LZ4y1p7zD
+
+网络群体智能分布式协同 东南 https://www.bilibili.com/video/BV1eY411W7mb
 
 -----
 
