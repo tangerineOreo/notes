@@ -1,3 +1,6 @@
+操作系统 数据结构 计算机网络 计算机组成 王道 https://space.bilibili.com/95228778
+
+- CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
 
 机器学习入门 斯坦福吴恩达 https://www.bilibili.com/video/BV164411b7dx
 
@@ -6,8 +9,6 @@
 Matlab 自动控制 https://space.bilibili.com/481614254
 
 - 滑模控制 理论 有限时间稳定 知乎 https://zhuanlan.zhihu.com/p/78549442
-
-AI 优化问题
 
 深度强化学习 理论 https://www.bilibili.com/video/BV1rv41167yx
 - TRPO https://youtu.be/fcSYiyvPjm4 Sarsa和Q-Learning 原始 On-Policy Off-Policy eps-greedy https://zhuanlan.zhihu.com/p/543847410
@@ -29,13 +30,17 @@ AI 优化问题
 
 -----
 
+Vince9120 英语 交大校友 https://space.bilibili.com/396671281
+
+在bilibili学托福 https://www.bilibili.com/video/BV1xh411H7H1 单词 https://www.bilibili.com/video/BV1tF411z7cF
+
+-----
+
 非线性控制笔记 知乎 https://www.zhihu.com/column/c_138293525
 
 wangshusen https://github.com/wangshusen
 
 机器学习 理论 shuhuai https://space.bilibili.com/97068901/video
-
------
 
 系统模型
 - 参数 我不是MATLAB https://space.bilibili.com/503246838/search/video?keyword=%E5%8F%82%E6%95%B0
@@ -50,17 +55,9 @@ wangshusen https://github.com/wangshusen
 
 -----
 
-CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
-
 博弈论入门 https://www.bilibili.com/video/BV15v411i7Mj
 
 博弈论 耶鲁大学 https://www.bilibili.com/video/BV1Kt411h7Ep
-
------
-
-Vince9120 英语 交大校友 https://space.bilibili.com/396671281
-
-在bilibili学托福 https://www.bilibili.com/video/BV1xh411H7H1
 
 经济学原理 钱颖一 https://www.bilibili.com/video/BV1am4y1D73g
 
