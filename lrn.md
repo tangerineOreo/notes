@@ -1,8 +1,16 @@
-操作系统 数据结构 计算机网络 计算机组成 王道 https://space.bilibili.com/95228778
+CS速 https://www.bilibili.com/video/BV1EW411u7th
+CS导论 CS50 https://www.bilibili.com/video/BV1DA411Y7jk
+CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
 
-- CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
-
+数据科学 Matlab官方 https://www.bilibili.com/video/BV1kV411b7iM
 机器学习入门 斯坦福吴恩达 https://www.bilibili.com/video/BV164411b7dx
+
+数据结构与算法 THU双 https://www.bilibili.com/video/BV1XL411g7qF
+计算机组成 MIT
+
+王道CS https://space.bilibili.com/95228778
+
+-----
 
 自动控制 Dr.CAN https://space.bilibili.com/230105574
 
@@ -23,8 +31,6 @@ Matlab 自动控制 https://space.bilibili.com/481614254
 - 入门 理论 https://www.bilibili.com/video/BV1LF411B7h6
 - Matlab实现 https://www.bilibili.com/video/BV1tY411n7sj
 - 模糊PID https://www.bilibili.com/video/BV1ES4y1j7of
-
-数据科学 Matlab官方 https://www.bilibili.com/video/BV1kV411b7iM
 
 系统建模 不基于模型 深度学习 数据驱动 Matlab官方 推送 https://mp.weixin.qq.com/s/ITxBE6SkzgMsZ5J0mwezuw
 
