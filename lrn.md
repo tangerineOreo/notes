@@ -2,11 +2,25 @@ CS速 https://www.bilibili.com/video/BV1EW411u7th
 CS导论 CS50 https://www.bilibili.com/video/BV1DA411Y7jk
 CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
 
-数据科学 Matlab官方 https://www.bilibili.com/video/BV1kV411b7iM
-机器学习入门 斯坦福吴恩达 https://www.bilibili.com/video/BV164411b7dx
+python入门 没有废话 https://www.bilibili.com/video/BV1ws411i7Dr 快速入门 https://www.bilibili.com/video/BV1944y1x7SW
 
 数据结构与算法 THU双 https://www.bilibili.com/video/BV1XL411g7qF
-计算机组成 MIT
+机器学习入门 斯坦福吴恩达 https://www.bilibili.com/video/BV164411b7dx
+
+- python入门&爬虫&数据分析 https://www.bilibili.com/video/BV12E411A7ZQ
+
+- python一小时数据科学分析入门 https://www.bilibili.com/video/BV1x7411L7Yg
+
+- python机器学习 黑马程序员 https://www.bilibili.com/video/BV1nt411r7tj
+
+- python数据分析 数学建模基础 numpy、pandas、matplotlib https://www.bilibili.com/video/BV1yi4y147A2
+
+- python统计分析实战 医学统计 https://space.bilibili.com/7704237
+
+- python金融量化 THU双 https://www.bilibili.com/video/BV1i741147LS
+
+计算机组成 MIT https://www.bilibili.com/video/BV14P4y1p7W2
+数据科学 Matlab官方 https://www.bilibili.com/video/BV1kV411b7iM
 
 王道CS https://space.bilibili.com/95228778
 
