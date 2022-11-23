@@ -2,7 +2,7 @@ CS速 https://www.bilibili.com/video/BV1EW411u7th
 CS导论 CS50 https://www.bilibili.com/video/BV1DA411Y7jk
 CSAPP 深入理解计算机系统 https://www.bilibili.com/video/BV1cD4y1D7uR
 
-python入门
+python
 1小时 https://www.bilibili.com/video/BV1Zz4y1f75v
 2小时 https://www.bilibili.com/video/BV16A411i7W7
 5小时 https://www.bilibili.com/video/BV1sW41157KE
@@ -11,17 +11,13 @@ python入门
 数据结构与算法 THU双 https://www.bilibili.com/video/BV1XL411g7qF
 机器学习入门 斯坦福吴恩达 https://www.bilibili.com/video/BV164411b7dx
 
-- python入门&爬虫&数据分析 https://www.bilibili.com/video/BV12E411A7ZQ 3小时python爬虫 https://www.bilibili.com/video/BV1Ry4y1V7PE 1小时python数据科学分析实战入门 https://www.bilibili.com/video/BV1x7411L7Yg
+- python小时入门&爬虫&数据/文本分析&可视化 豆花同学呀 https://space.bilibili.com/590099482 python入门&爬虫&数据分析 https://www.bilibili.com/video/BV12E411A7ZQ 1小时数据实战 https://www.bilibili.com/video/BV1x7411L7Yg 3小时爬虫项目 https://www.bilibili.com/video/BV1Ry4y1V7PE 数据分析基础 N.&P.&M. https://www.bilibili.com/video/BV1yi4y147A2
 
-- python机器学习 黑马程序员 https://www.bilibili.com/video/BV1nt411r7tj 机器学习基础算法项目 https://www.bilibili.com/video/BV1mK411N7pP 实战项目 https://www.bilibili.com/video/BV1LL411t7Ze
+- python机器学习 黑马程序员 https://www.bilibili.com/video/BV1nt411r7tj 基础算法项目 https://www.bilibili.com/video/BV1mK411N7pP 小时项目 https://space.bilibili.com/590099482 实战项目 https://www.bilibili.com/video/BV1LL411t7Ze
 
-- python数据分析 数学建模基础 numpy、pandas、matplotlib https://www.bilibili.com/video/BV1yi4y147A2
-
-- python统计分析实战 医学统计 https://space.bilibili.com/7704237
+- python统计分析 医学统计 https://space.bilibili.com/7704237
 
 - python金融量化 THU双 https://www.bilibili.com/video/BV1i741147LS
-
-- python资源 https://space.bilibili.com/590099482
 
 计算机组成 MIT https://www.bilibili.com/video/BV14P4y1p7W2
 数据科学 Matlab官方 https://www.bilibili.com/video/BV1kV411b7iM
