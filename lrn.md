@@ -13,7 +13,7 @@ python
 
 - python小时入门&爬虫&数据/文本分析&可视化 豆花同学呀 https://space.bilibili.com/590099482 python入门&爬虫&数据分析 https://www.bilibili.com/video/BV12E411A7ZQ 1小时数据实战 https://www.bilibili.com/video/BV1x7411L7Yg 3小时爬虫项目 https://www.bilibili.com/video/BV1Ry4y1V7PE 数据分析基础 N.&P.&M. https://www.bilibili.com/video/BV1yi4y147A2
 
-- python机器学习 黑马程序员 https://www.bilibili.com/video/BV1nt411r7tj 基础算法项目 https://www.bilibili.com/video/BV1mK411N7pP 小时项目 https://space.bilibili.com/590099482 实战项目 https://www.bilibili.com/video/BV1LL411t7Ze
+- python机器学习 黑马程序员 https://www.bilibili.com/video/BV1nt411r7tj 算法基础&项目 https://space.bilibili.com/390756902 小时项目 https://space.bilibili.com/590099482 实战项目 https://www.bilibili.com/video/BV1LL411t7Ze
 
 - python统计分析 医学统计 https://space.bilibili.com/7704237
 
